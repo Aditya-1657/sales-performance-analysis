@@ -1,6 +1,6 @@
 # Sales Performance Analysis — 2025
 
-**Business Analyst Portfolio Project | Excel (Formulas + Dashboard) & Python (Pandas/Matplotlib)**
+**Business Analyst Portfolio Project | Excel (Formulas + Dashboard)**
 
 ## 1. Business Problem
 
@@ -27,7 +27,6 @@ Full step-by-step log is in the `Cleaning_Log` sheet of the Excel workbook and i
 ## 4. Tools & Approach
 
 - **Excel** — cleaned data, formula-driven summary tables (`SUMIF`/`COUNTIF`), and a 6-chart dashboard, all dynamically linked to the source data
-- **Python (Pandas, Matplotlib)** — reproducible cleaning + analysis script, used to generate the charts below
 
 ## 5. Key Insights
 
