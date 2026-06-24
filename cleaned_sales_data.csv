@@ -1,0 +1,151 @@
+Order_ID,Order_Date,Region,City,Salesperson,Category,Product,Customer_Type,Units_Sold,Unit_Price,Discount,Revenue,Order_Month,Order_Month_Num
+ORD-1108,2025-01-08,West,Pune,Suresh Yadav,Furniture,Study Table,Retail,18.0,6500,0.0,117000.0,Jan,1
+ORD-1075,2025-01-14,North,Jaipur,Vikas Jain,Stationery,Notebook Pack,Online,19.0,240,0.05,4332.0,Jan,1
+ORD-1010,2025-01-17,West,Pune,Pooja Meena,Stationery,Notebook Pack,Wholesale,8.0,240,0.0,1920.0,Jan,1
+ORD-1101,2025-01-21,West,Pune,Rohit Singh,Electronics,Smartphone X1,Wholesale,19.0,11999,0.1,205182.9,Jan,1
+ORD-1005,2025-01-23,North,Bharatpur,Kavita Joshi,Stationery,Printer Paper A4,Online,9.0,320,0.0,2880.0,Jan,1
+ORD-1089,2025-01-28,North,Bengaluru,Vikas Jain,Furniture,Study Table,Online,2.0,6500,0.0,13000.0,Jan,1
+ORD-1065,2025-02-02,East,Lucknow,Suresh Yadav,Furniture,Bookshelf,Wholesale,7.0,3800,0.0,26600.0,Feb,2
+ORD-1098,2025-02-06,West,Pune,Amit Sharma,Furniture,Study Table,Retail,5.0,6500,0.0,32500.0,Feb,2
+ORD-1036,2025-02-07,East,Kolkata,Amit Sharma,Stationery,Pen Box,Wholesale,11.0,120,0.1,1188.0,Feb,2
+ORD-1033,2025-02-11,East,Lucknow,Rohit Singh,Furniture,Office Chair,Retail,17.0,4200,0.1,64260.0,Feb,2
+ORD-1064,2025-02-11,West,Ahmedabad,Rohit Singh,Stationery,Pen Box,Retail,18.0,120,0.0,2160.0,Feb,2
+ORD-1092,2025-02-13,North,Jaipur,Neha Gupta,Furniture,Bookshelf,Retail,10.0,3800,0.1,34200.0,Feb,2
+ORD-1118,2025-02-16,West,Pune,Suresh Yadav,Stationery,Notebook Pack,Retail,24.0,240,0.0,5760.0,Feb,2
+ORD-1137,2025-02-20,West,Ahmedabad,Pooja Meena,Appliances,Mixer Grinder,Online,12.0,2600,0.0,31200.0,Feb,2
+ORD-1007,2025-02-21,North,Jaipur,Suresh Yadav,Stationery,Notebook Pack,Wholesale,8.0,240,0.05,1824.0,Feb,2
+ORD-1115,2025-02-21,West,Pune,Kavita Joshi,Stationery,Notebook Pack,Retail,15.0,240,0.0,3600.0,Feb,2
+ORD-1103,2025-02-23,South,Chennai,Rohit Singh,Stationery,Pen Box,Wholesale,22.0,120,0.05,2508.0,Feb,2
+ORD-1147,2025-02-28,South,Chennai,Neha Gupta,Appliances,Mixer Grinder,Wholesale,23.0,2600,0.05,56810.0,Feb,2
+ORD-1039,2025-03-01,North,Bharatpur,Priya Verma,Electronics,Bluetooth Speaker,Online,9.0,1800,0.1,14580.0,Mar,3
+ORD-1131,2025-03-05,North,Agra,Kavita Joshi,Electronics,Smartphone X1,Wholesale,18.0,11999,0.0,215982.0,Mar,3
+ORD-1037,2025-03-09,North,Delhi,Pooja Meena,Furniture,Bookshelf,Retail,9.0,3800,0.0,34200.0,Mar,3
+ORD-1013,2025-03-12,East,Lucknow,Kavita Joshi,Appliances,Ceiling Fan,Retail,8.0,1750,0.0,14000.0,Mar,3
+ORD-1001,2025-03-13,North,Delhi,Priya Verma,Stationery,Notebook Pack,Online,8.0,240,0.1,1728.0,Mar,3
+ORD-1121,2025-03-15,North,Agra,Neha Gupta,Furniture,Study Table,Wholesale,19.0,6500,0.0,123500.0,Mar,3
+ORD-1140,2025-03-17,West,Pune,Amit Sharma,Furniture,Office Chair,Wholesale,11.0,4200,0.0,46200.0,Mar,3
+ORD-1073,2025-03-20,North,Jaipur,Neha Gupta,Furniture,Office Chair,Retail,20.0,4200,0.05,79800.0,Mar,3
+ORD-1045,2025-03-21,South,Hyderabad,Neha Gupta,Appliances,Water Purifier,Retail,24.0,8900,0.0,213600.0,Mar,3
+ORD-1095,2025-03-22,West,Mumbai,Amit Sharma,Furniture,Bookshelf,Wholesale,3.0,3800,0.05,10830.0,Mar,3
+ORD-1128,2025-03-31,North,Bharatpur,Neha Gupta,Stationery,Printer Paper A4,Retail,14.0,320,0.1,4032.0,Mar,3
+ORD-1028,2025-04-04,West,Mumbai,Vikas Jain,Appliances,Mixer Grinder,Wholesale,14.0,2600,0.0,36400.0,Apr,4
+ORD-1070,2025-04-04,North,Delhi,Amit Sharma,Appliances,Mixer Grinder,Wholesale,15.0,2600,0.05,37050.0,Apr,4
+ORD-1051,2025-04-08,East,Lucknow,Vikas Jain,Electronics,Laptop Pro 14,Retail,19.0,42500,0.05,767125.0,Apr,4
+ORD-1126,2025-04-08,South,Bengaluru,Vikas Jain,Stationery,Notebook Pack,Online,21.0,240,0.0,5040.0,Apr,4
+ORD-1047,2025-04-13,North,Agra,Kavita Joshi,Electronics,Laptop Pro 14,Wholesale,8.0,42500,0.0,340000.0,Apr,4
+ORD-1094,2025-04-17,East,Patna,Neha Gupta,Electronics,"LED TV 32""",Wholesale,25.0,14500,0.0,362500.0,Apr,4
+ORD-1044,2025-04-18,North,Bharatpur,Neha Gupta,Stationery,Notebook Pack,Online,12.0,240,0.0,2880.0,Apr,4
+ORD-1055,2025-04-18,South,Chennai,Suresh Yadav,Electronics,Smartphone X1,Online,10.0,11999,0.1,107991.0,Apr,4
+ORD-1056,2025-04-20,South,Chennai,Kavita Joshi,Appliances,Ceiling Fan,Online,22.0,1750,0.0,38500.0,Apr,4
+ORD-1002,2025-04-22,North,Agra,Neha Gupta,Electronics,"LED TV 32""",Online,3.0,14500,0.1,39150.0,Apr,4
+ORD-1023,2025-04-23,North,Bharatpur,Amit Sharma,Electronics,Bluetooth Speaker,Retail,19.0,1800,0.0,34200.0,Apr,4
+ORD-1072,2025-04-25,North,Agra,Priya Verma,Electronics,"LED TV 32""",Online,12.0,14500,0.0,174000.0,Apr,4
+ORD-1130,2025-04-26,North,Agra,Suresh Yadav,Electronics,Bluetooth Speaker,Online,25.0,1800,0.0,45000.0,Apr,4
+ORD-1132,2025-04-30,East,Lucknow,Kavita Joshi,Stationery,Notebook Pack,Retail,22.0,240,0.1,4752.0,Apr,4
+ORD-1057,2025-05-01,North,Bharatpur,Vikas Jain,Stationery,Notebook Pack,Retail,25.0,240,0.0,6000.0,May,5
+ORD-1019,2025-05-03,East,Kolkata,Amit Sharma,Electronics,Smartphone X1,Retail,10.0,11999,0.1,107991.0,May,5
+ORD-1113,2025-05-03,West,Patna,Suresh Yadav,Stationery,Notebook Pack,Retail,23.0,240,0.05,5244.0,May,5
+ORD-1083,2025-05-04,South,Hyderabad,Suresh Yadav,Electronics,Bluetooth Speaker,Wholesale,3.0,1800,0.1,4860.0,May,5
+ORD-1059,2025-05-05,West,Pune,Rohit Singh,Appliances,Ceiling Fan,Online,13.0,1750,0.0,22750.0,May,5
+ORD-1034,2025-05-07,North,Jaipur,Amit Sharma,Appliances,Mixer Grinder,Online,19.0,2600,0.0,49400.0,May,5
+ORD-1116,2025-05-16,East,Lucknow,Pooja Meena,Furniture,Office Chair,Online,16.0,4200,0.05,63840.0,May,5
+ORD-1142,2025-05-16,South,Bengaluru,Amit Sharma,Stationery,Notebook Pack,Retail,6.0,240,0.05,1368.0,May,5
+ORD-1080,2025-05-18,East,Patna,Pooja Meena,Appliances,Water Purifier,Retail,19.0,8900,0.0,169100.0,May,5
+ORD-1063,2025-05-21,South,Hyderabad,Kavita Joshi,Appliances,Water Purifier,Retail,8.0,8900,0.0,71200.0,May,5
+ORD-1109,2025-05-30,North,Agra,Vikas Jain,Electronics,Bluetooth Speaker,Wholesale,16.0,1800,0.05,27360.0,May,5
+ORD-1088,2025-06-01,East,Patna,Neha Gupta,Stationery,Notebook Pack,Wholesale,7.0,240,0.0,1680.0,Jun,6
+ORD-1099,2025-06-05,South,Chennai,Suresh Yadav,Electronics,Laptop Pro 14,Wholesale,23.0,42500,0.1,879750.0,Jun,6
+ORD-1134,2025-06-05,East,Kolkata,Kavita Joshi,Furniture,Office Chair,Retail,2.0,4200,0.0,8400.0,Jun,6
+ORD-1085,2025-06-06,South,Bengaluru,Pooja Meena,Appliances,Water Purifier,Wholesale,8.0,8900,0.1,64080.0,Jun,6
+ORD-1032,2025-06-10,South,Bengaluru,Amit Sharma,Electronics,"LED TV 32""",Retail,24.0,14500,0.1,313200.0,Jun,6
+ORD-1100,2025-06-15,East,Patna,Vikas Jain,Electronics,"LED TV 32""",Retail,14.0,14500,0.0,203000.0,Jun,6
+ORD-1119,2025-06-16,East,Kolkata,Amit Sharma,Stationery,Notebook Pack,Wholesale,2.0,240,0.0,480.0,Jun,6
+ORD-1053,2025-06-17,North,Bharatpur,Suresh Yadav,Stationery,Printer Paper A4,Online,14.0,320,0.0,4480.0,Jun,6
+ORD-1048,2025-06-18,West,Mumbai,Vikas Jain,Electronics,Bluetooth Speaker,Retail,13.0,1800,0.0,23400.0,Jun,6
+ORD-1049,2025-06-19,South,Hyderabad,Amit Sharma,Appliances,Water Purifier,Retail,18.0,8900,0.0,160200.0,Jun,6
+ORD-1004,2025-06-22,East,Patna,Priya Verma,Stationery,Notebook Pack,Retail,7.0,240,0.05,1596.0,Jun,6
+ORD-1040,2025-06-25,West,Ahmedabad,Neha Gupta,Stationery,Printer Paper A4,Online,7.0,320,0.0,2240.0,Jun,6
+ORD-1082,2025-07-01,East,Patna,Vikas Jain,Furniture,Study Table,Wholesale,7.0,6500,0.0,45500.0,Jul,7
+ORD-1006,2025-07-05,East,Kolkata,Neha Gupta,Stationery,Printer Paper A4,Online,20.0,320,0.0,6400.0,Jul,7
+ORD-1143,2025-07-05,North,Delhi,Priya Verma,Appliances,Ceiling Fan,Wholesale,25.0,1750,0.1,39375.0,Jul,7
+ORD-1074,2025-07-08,North,Jaipur,Rohit Singh,Appliances,Water Purifier,Online,9.0,8900,0.1,72090.0,Jul,7
+ORD-1043,2025-07-09,North,Delhi,Rohit Singh,Furniture,Bookshelf,Wholesale,2.0,3800,0.0,7600.0,Jul,7
+ORD-1135,2025-07-09,West,Pune,Suresh Yadav,Furniture,Study Table,Online,15.0,6500,0.0,97500.0,Jul,7
+ORD-1150,2025-07-10,North,Delhi,Rohit Singh,Appliances,Mixer Grinder,Online,24.0,2600,0.0,62400.0,Jul,7
+ORD-1009,2025-07-14,West,Pune,Vikas Jain,Furniture,Office Chair,Online,15.0,4200,0.1,56700.0,Jul,7
+ORD-1071,2025-07-14,South,Bengaluru,Vikas Jain,Appliances,Ceiling Fan,Wholesale,11.0,1750,0.0,19250.0,Jul,7
+ORD-1124,2025-07-15,West,Ahmedabad,Pooja Meena,Appliances,Mixer Grinder,Online,8.0,2600,0.0,20800.0,Jul,7
+ORD-1110,2025-07-16,East,Kolkata,Neha Gupta,Appliances,Water Purifier,Online,5.0,8900,0.1,40050.0,Jul,7
+ORD-1114,2025-07-17,North,Bharatpur,Rohit Singh,Appliances,Water Purifier,Wholesale,13.0,8900,0.0,115700.0,Jul,7
+ORD-1066,2025-07-19,East,Patna,Amit Sharma,Electronics,Bluetooth Speaker,Online,14.0,1800,0.05,23940.0,Jul,7
+ORD-1067,2025-07-19,East,Kolkata,Suresh Yadav,Stationery,Pen Box,Online,25.0,120,0.1,2700.0,Jul,7
+ORD-1030,2025-07-25,West,Ahmedabad,Amit Sharma,Appliances,Ceiling Fan,Retail,7.0,1750,0.05,11637.5,Jul,7
+ORD-1091,2025-07-25,North,Bharatpur,Kavita Joshi,Appliances,Mixer Grinder,Retail,3.0,2600,0.1,7020.0,Jul,7
+ORD-1027,2025-07-26,East,Lucknow,Pooja Meena,Electronics,"LED TV 32""",Retail,2.0,14500,0.0,29000.0,Jul,7
+ORD-1136,2025-07-28,East,Lucknow,Vikas Jain,Electronics,Laptop Pro 14,Retail,20.0,42500,0.0,850000.0,Jul,7
+ORD-1046,2025-07-30,East,Kolkata,Neha Gupta,Furniture,Bookshelf,Wholesale,11.0,3800,0.0,41800.0,Jul,7
+ORD-1120,2025-07-30,South,Chennai,Rohit Singh,Furniture,Office Chair,Retail,17.0,4200,0.0,71400.0,Jul,7
+ORD-1148,2025-08-01,West,Ahmedabad,Priya Verma,Stationery,Pen Box,Wholesale,13.0,120,0.05,1482.0,Aug,8
+ORD-1031,2025-08-05,North,Agra,Kavita Joshi,Stationery,Pen Box,Retail,10.0,120,0.0,1200.0,Aug,8
+ORD-1041,2025-08-05,East,Patna,Vikas Jain,Electronics,"LED TV 32""",Retail,21.0,14500,0.0,304500.0,Aug,8
+ORD-1026,2025-08-09,East,Kolkata,Pooja Meena,Electronics,"LED TV 32""",Wholesale,22.0,14500,0.05,303050.0,Aug,8
+ORD-1078,2025-08-10,South,Bengaluru,Pooja Meena,Appliances,Ceiling Fan,Online,4.0,1750,0.05,6650.0,Aug,8
+ORD-1016,2025-08-11,South,Hyderabad,Rohit Singh,Stationery,Notebook Pack,Wholesale,10.0,240,0.0,2400.0,Aug,8
+ORD-1042,2025-08-15,South,Bengaluru,Suresh Yadav,Stationery,Notebook Pack,Online,24.0,240,0.0,5760.0,Aug,8
+ORD-1145,2025-08-16,East,Patna,Priya Verma,Electronics,Laptop Pro 14,Retail,23.0,42500,0.0,977500.0,Aug,8
+ORD-1093,2025-08-19,East,Lucknow,Kavita Joshi,Furniture,Bookshelf,Wholesale,13.0,3800,0.1,44460.0,Aug,8
+ORD-1022,2025-08-20,East,Lucknow,Priya Verma,Stationery,Pen Box,Retail,17.0,120,0.0,2040.0,Aug,8
+ORD-1086,2025-08-21,South,Chennai,Vikas Jain,Stationery,Pen Box,Wholesale,23.0,120,0.0,2760.0,Aug,8
+ORD-1104,2025-08-21,East,Patna,Priya Verma,Appliances,Water Purifier,Wholesale,2.0,8900,0.0,17800.0,Aug,8
+ORD-1138,2025-08-21,North,Agra,Priya Verma,Stationery,Notebook Pack,Online,4.0,240,0.0,960.0,Aug,8
+ORD-1062,2025-09-01,East,Lucknow,Kavita Joshi,Appliances,Mixer Grinder,Wholesale,24.0,2600,0.0,62400.0,Sep,9
+ORD-1090,2025-09-03,East,Kolkata,Kavita Joshi,Electronics,Smartphone X1,Wholesale,16.0,11999,0.0,191984.0,Sep,9
+ORD-1129,2025-09-04,South,Hyderabad,Vikas Jain,Stationery,Notebook Pack,Online,9.0,240,0.0,2160.0,Sep,9
+ORD-1068,2025-09-06,West,Ahmedabad,Amit Sharma,Furniture,Study Table,Wholesale,14.0,6500,0.0,91000.0,Sep,9
+ORD-1117,2025-09-07,North,Bharatpur,Amit Sharma,Appliances,Ceiling Fan,Online,21.0,1750,0.0,36750.0,Sep,9
+ORD-1084,2025-09-09,West,Pune,Kavita Joshi,Appliances,Water Purifier,Retail,23.0,8900,0.0,204700.0,Sep,9
+ORD-1011,2025-09-13,North,Jaipur,Suresh Yadav,Stationery,Notebook Pack,Online,21.0,240,0.05,4788.0,Sep,9
+ORD-1106,2025-09-13,West,Pune,Kavita Joshi,Stationery,Printer Paper A4,Retail,25.0,320,0.0,8000.0,Sep,9
+ORD-1111,2025-09-17,West,Mumbai,Vikas Jain,Stationery,Pen Box,Retail,11.0,120,0.0,1320.0,Sep,9
+ORD-1024,2025-09-21,West,Mumbai,Neha Gupta,Electronics,Smartphone X1,Wholesale,16.0,11999,0.05,182384.8,Sep,9
+ORD-1060,2025-09-23,North,Agra,Kavita Joshi,Furniture,Office Chair,Retail,23.0,4200,0.1,86940.0,Sep,9
+ORD-1018,2025-09-29,West,Mumbai,Amit Sharma,Stationery,Notebook Pack,Online,18.0,240,0.0,4320.0,Sep,9
+ORD-1020,2025-09-30,North,Delhi,Rohit Singh,Appliances,Mixer Grinder,Retail,25.0,2600,0.05,61750.0,Sep,9
+ORD-1087,2025-10-02,West,Mumbai,Rohit Singh,Furniture,Study Table,Retail,4.0,6500,0.0,26000.0,Oct,10
+ORD-1112,2025-10-03,South,Hyderabad,Kavita Joshi,Appliances,Mixer Grinder,Wholesale,15.0,2600,0.0,39000.0,Oct,10
+ORD-1029,2025-10-04,North,Agra,Amit Sharma,Electronics,"LED TV 32""",Retail,21.0,14500,0.0,304500.0,Oct,10
+ORD-1012,2025-10-15,West,Ahmedabad,Vikas Jain,Furniture,Office Chair,Online,24.0,4200,0.1,90720.0,Oct,10
+ORD-1125,2025-10-17,South,Bengaluru,Amit Sharma,Appliances,Ceiling Fan,Online,1.0,1750,0.05,1662.5,Oct,10
+ORD-1139,2025-10-17,North,Delhi,Neha Gupta,Stationery,Notebook Pack,Retail,5.0,240,0.1,1080.0,Oct,10
+ORD-1025,2025-10-23,West,Pune,Kavita Joshi,Furniture,Bookshelf,Retail,19.0,3800,0.05,68590.0,Oct,10
+ORD-1127,2025-10-24,North,Delhi,Pooja Meena,Stationery,Pen Box,Online,2.0,120,0.0,240.0,Oct,10
+ORD-1003,2025-10-29,North,Jaipur,Vikas Jain,Appliances,Mixer Grinder,Retail,15.0,2600,0.0,39000.0,Oct,10
+ORD-1014,2025-11-02,North,Jaipur,Priya Verma,Furniture,Bookshelf,Wholesale,14.0,3800,0.05,50540.0,Nov,11
+ORD-1050,2025-11-02,West,Pune,Suresh Yadav,Stationery,Notebook Pack,Wholesale,4.0,240,0.0,960.0,Nov,11
+ORD-1058,2025-11-09,West,Mumbai,Unknown,Electronics,Bluetooth Speaker,Wholesale,16.0,1800,0.05,27360.0,Nov,11
+ORD-1081,2025-11-09,South,Chennai,Suresh Yadav,Furniture,Study Table,Wholesale,19.0,6500,0.0,123500.0,Nov,11
+ORD-1069,2025-11-15,East,Lucknow,Amit Sharma,Furniture,Study Table,Wholesale,5.0,6500,0.1,29250.0,Nov,11
+ORD-1017,2025-11-17,South,Hyderabad,Vikas Jain,Furniture,Bookshelf,Online,4.0,3800,0.1,13680.0,Nov,11
+ORD-1146,2025-11-21,West,Mumbai,Pooja Meena,Furniture,Study Table,Wholesale,20.0,6500,0.1,117000.0,Nov,11
+ORD-1102,2025-11-22,East,Patna,Kavita Joshi,Furniture,Bookshelf,Retail,14.0,3800,0.05,50540.0,Nov,11
+ORD-1133,2025-11-22,South,Hyderabad,Kavita Joshi,Furniture,Bookshelf,Online,3.0,3800,0.0,11400.0,Nov,11
+ORD-1144,2025-11-26,West,Pune,Amit Sharma,Electronics,Smartphone X1,Retail,15.0,11999,0.05,170985.75,Nov,11
+ORD-1079,2025-11-30,West,Ahmedabad,Vikas Jain,Furniture,Bookshelf,Online,17.0,3800,0.1,58140.0,Nov,11
+ORD-1105,2025-12-03,South,Bengaluru,Kavita Joshi,Appliances,Water Purifier,Wholesale,1.0,8900,0.0,8900.0,Dec,12
+ORD-1077,2025-12-05,North,Delhi,Pooja Meena,Stationery,Printer Paper A4,Retail,14.0,320,0.1,4032.0,Dec,12
+ORD-1097,2025-12-05,North,Jaipur,Neha Gupta,Stationery,Printer Paper A4,Wholesale,19.0,320,0.0,6080.0,Dec,12
+ORD-1141,2025-12-05,West,Pune,Amit Sharma,Stationery,Notebook Pack,Retail,4.0,240,0.0,960.0,Dec,12
+ORD-1052,2025-12-07,North,Jaipur,Pooja Meena,Stationery,Pen Box,Online,3.0,120,0.0,360.0,Dec,12
+ORD-1061,2025-12-08,West,Mumbai,Pooja Meena,Appliances,Mixer Grinder,Wholesale,15.0,2600,0.1,35100.0,Dec,12
+ORD-1035,2025-12-09,East,Lucknow,Pooja Meena,Stationery,Pen Box,Retail,7.0,120,0.0,840.0,Dec,12
+ORD-1008,2025-12-10,South,Bengaluru,Vikas Jain,Stationery,Pen Box,Online,7.0,120,0.0,840.0,Dec,12
+ORD-1054,2025-12-13,West,Mumbai,Rohit Singh,Appliances,Water Purifier,Online,13.0,8900,0.1,104130.0,Dec,12
+ORD-1122,2025-12-13,East,Patna,Rohit Singh,Electronics,Laptop Pro 14,Retail,10.0,42500,0.05,403750.0,Dec,12
+ORD-1015,2025-12-15,East,Lucknow,Priya Verma,Stationery,Printer Paper A4,Online,1.0,320,0.1,288.0,Dec,12
+ORD-1149,2025-12-18,South,Hyderabad,Kavita Joshi,Stationery,Pen Box,Retail,5.0,120,0.0,600.0,Dec,12
+ORD-1021,2025-12-20,West,Ahmedabad,Neha Gupta,Appliances,Mixer Grinder,Online,18.0,2600,0.0,46800.0,Dec,12
+ORD-1076,2025-12-20,East,Lucknow,Neha Gupta,Furniture,Office Chair,Retail,19.0,4200,0.0,79800.0,Dec,12
+ORD-1123,2025-12-20,South,Hyderabad,Vikas Jain,Stationery,Printer Paper A4,Wholesale,14.0,320,0.0,4480.0,Dec,12
+ORD-1107,2025-12-24,South,Hyderabad,Kavita Joshi,Furniture,Study Table,Retail,15.0,6500,0.0,97500.0,Dec,12
+ORD-1038,2025-12-27,South,Chennai,Vikas Jain,Furniture,Study Table,Online,18.0,6500,0.1,105300.0,Dec,12
+ORD-1096,2025-12-28,East,Patna,Vikas Jain,Electronics,Bluetooth Speaker,Online,10.0,1800,0.05,17100.0,Dec,12
